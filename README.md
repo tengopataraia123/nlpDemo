@@ -1,5 +1,5 @@
 #Simple npl  
-გარეთ თოვდა თოვდა თოვდა  
-ბებოს სულ არ ციოდა  
-კატაფალკის კუზაოდან  
-ყვავილები ცვიოდა  
+
+Reuirements: python3, spacy, flask
+
+run the server, type text and sumbit
